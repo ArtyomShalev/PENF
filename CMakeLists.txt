@@ -14,7 +14,7 @@
 # if this is the main project (a subproject)
 # afterwards they can be run with ctest
 
-cmake_minimum_required(VERSION 3.14...3.15)
+cmake_minimum_required(VERSION 3.14...3.16)
 project(PENF VERSION 1.2.1 LANGUAGES Fortran)
 
 # set export variables needed in subdirectories
